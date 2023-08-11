@@ -1,0 +1,15 @@
+{
+  "name": "local-feed-generation",
+  "version": "1.0.0",
+  "description": "依赖RPageSearch，使用本地文件生成RSS/atom/feed，支持workflow自动持续构建",
+  "main": "feed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "feed": "^4.2.2"
+  }
+}
